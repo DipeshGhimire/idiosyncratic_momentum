@@ -18,6 +18,15 @@ This project replicates and extends the findings of the seminal 2011 paper on id
   - Included metrics for turnover and alpha decay.
 
 ## Results
+
+- **Naive Long-Short Portfolio**:
+  - Monthly Mean Return: 0.62%
+  - Annualized Sharpe Ratio: 0.66
+  - Monthly Alpha: 0.41%
+- **Optimized Portfolio**:
+  - Annualized Sharpe Ratio: 2.25
+  - Monthly Alpha: 0.54%
+
 ### Optimal Mean-Variance Portfolio
 ![Optimal Mean-Variance Portfolio](newplot.png)
 
